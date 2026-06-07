@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"alienbb","order":16,"path":"objects/alienbb/alienbb.yy",},
+    {"name":"chaof","order":19,"path":"objects/chaof/chaof.yy",},
+    {"name":"terragirando","order":17,"path":"objects/terragirando/terragirando.yy",},
+    {"name":"alienbbb","order":1,"path":"sprites/alienbbb/alienbbb.yy",},
+    {"name":"ceu","order":6,"path":"sprites/ceu/ceu.yy",},
+    {"name":"chaodafrente","order":11,"path":"sprites/chaodafrente/chaodafrente.yy",},
+    {"name":"chaofundo","order":14,"path":"sprites/chaofundo/chaofundo.yy",},
+    {"name":"obstaculo","order":18,"path":"sprites/obstaculo/obstaculo.yy",},
+    {"name":"stars","order":9,"path":"sprites/stars/stars.yy",},
+    {"name":"terra","order":7,"path":"sprites/terra/terra.yy",},
+    {"name":"touhou_project_dance","order":15,"path":"sprites/touhou_project_dance/touhou_project_dance.yy",},
+  ],
+}
